@@ -39,7 +39,7 @@ AI_Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/mihikajain03/AI_Chatbot.git
 ```
 
 ### 2. Navigate to the Project Folder
